@@ -1,0 +1,686 @@
+[
+    {
+        "sic": "SIC001",
+        "name": "Vivaan",
+        "email": "student1@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(1).jpeg",
+        "semester": 6,
+        "marksId": "MARKS001",
+        "attendanceId": "ATTENDANCE001"
+    },
+    {
+        "sic": "SIC002",
+        "name": "Aditya",
+        "email": "student2@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(2).jpeg",
+        "semester": 6,
+        "marksId": "MARKS002",
+        "attendanceId": "ATTENDANCE002"
+    },
+    {
+        "sic": "SIC003",
+        "name": "Vihaan",
+        "email": "student3@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(3).jpeg",
+        "semester": 6,
+        "marksId": "MARKS003",
+        "attendanceId": "ATTENDANCE003"
+    },
+    {
+        "sic": "SIC004",
+        "name": "Arjun",
+        "email": "student4@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(4).jpeg",
+        "semester": 6,
+        "marksId": "MARKS004",
+        "attendanceId": "ATTENDANCE004"
+    },
+    {
+        "sic": "SIC005",
+        "name": "Sai",
+        "email": "student5@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(5).jpeg",
+        "semester": 6,
+        "marksId": "MARKS005",
+        "attendanceId": "ATTENDANCE005"
+    },
+    {
+        "sic": "SIC006",
+        "name": "Krishna",
+        "email": "student6@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(6).jpeg",
+        "semester": 6,
+        "marksId": "MARKS006",
+        "attendanceId": "ATTENDANCE006"
+    },
+    {
+        "sic": "SIC007",
+        "name": "Ishaan",
+        "email": "student7@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(7).jpeg",
+        "semester": 6,
+        "marksId": "MARKS007",
+        "attendanceId": "ATTENDANCE007"
+    },
+    {
+        "sic": "SIC008",
+        "name": "Shaurya",
+        "email": "student8@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(8).jpeg",
+        "semester": 6,
+        "marksId": "MARKS008",
+        "attendanceId": "ATTENDANCE008"
+    },
+    {
+        "sic": "SIC009",
+        "name": "Atharv",
+        "email": "student9@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(9).jpeg",
+        "semester": 6,
+        "marksId": "MARKS009",
+        "attendanceId": "ATTENDANCE009"
+    },
+    {
+        "sic": "SIC010",
+        "name": "Kabir",
+        "email": "student10@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(10).jpeg",
+        "semester": 6,
+        "marksId": "MARKS010",
+        "attendanceId": "ATTENDANCE010"
+    },
+    {
+        "sic": "SIC011",
+        "name": "Rudra",
+        "email": "student11@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(11).jpeg",
+        "semester": 6,
+        "marksId": "MARKS011",
+        "attendanceId": "ATTENDANCE011"
+    },
+    {
+        "sic": "SIC012",
+        "name": "Ayaan",
+        "email": "student12@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(12).jpeg",
+        "semester": 6,
+        "marksId": "MARKS012",
+        "attendanceId": "ATTENDANCE012"
+    },
+    {
+        "sic": "SIC013",
+        "name": "Dhruv",
+        "email": "student13@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(13).jpeg",
+        "semester": 6,
+        "marksId": "MARKS013",
+        "attendanceId": "ATTENDANCE013"
+    },
+    {
+        "sic": "SIC014",
+        "name": "Rohan",
+        "email": "student14@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(14).jpeg",
+        "semester": 6,
+        "marksId": "MARKS014",
+        "attendanceId": "ATTENDANCE014"
+    },
+    {
+        "sic": "SIC015",
+        "name": "Aryan",
+        "email": "student15@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(15).jpeg",
+        "semester": 6,
+        "marksId": "MARKS015",
+        "attendanceId": "ATTENDANCE015"
+    },
+    {
+        "sic": "SIC016",
+        "name": "Harsh",
+        "email": "student16@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(16).jpeg",
+        "semester": 6,
+        "marksId": "MARKS016",
+        "attendanceId": "ATTENDANCE016"
+    },
+    {
+        "sic": "SIC017",
+        "name": "Om",
+        "email": "student17@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(17).jpeg",
+        "semester": 6,
+        "marksId": "MARKS017",
+        "attendanceId": "ATTENDANCE017"
+    },
+    {
+        "sic": "SIC018",
+        "name": "Neel",
+        "email": "student18@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(18).jpeg",
+        "semester": 6,
+        "marksId": "MARKS018",
+        "attendanceId": "ATTENDANCE018"
+    },
+    {
+        "sic": "SIC019",
+        "name": "Reyansh",
+        "email": "student19@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(19).jpeg",
+        "semester": 6,
+        "marksId": "MARKS019",
+        "attendanceId": "ATTENDANCE019"
+    },
+    {
+        "sic": "SIC020",
+        "name": "Ananya",
+        "email": "student20@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(20).jpeg",
+        "semester": 6,
+        "marksId": "MARKS020",
+        "attendanceId": "ATTENDANCE020"
+    },
+    {
+        "sic": "SIC021",
+        "name": "Aadhya",
+        "email": "student21@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(21).jpeg",
+        "semester": 6,
+        "marksId": "MARKS021",
+        "attendanceId": "ATTENDANCE021"
+    },
+    {
+        "sic": "SIC022",
+        "name": "Diya",
+        "email": "student22@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(22).jpeg",
+        "semester": 6,
+        "marksId": "MARKS022",
+        "attendanceId": "ATTENDANCE022"
+    },
+    {
+        "sic": "SIC023",
+        "name": "Myra",
+        "email": "student23@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(23).jpeg",
+        "semester": 6,
+        "marksId": "MARKS023",
+        "attendanceId": "ATTENDANCE023"
+    },
+    {
+        "sic": "SIC024",
+        "name": "Ishita",
+        "email": "student24@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(24).jpeg",
+        "semester": 6,
+        "marksId": "MARKS024",
+        "attendanceId": "ATTENDANCE024"
+    },
+    {
+        "sic": "SIC025",
+        "name": "Saanvi",
+        "email": "student25@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(25).jpeg",
+        "semester": 6,
+        "marksId": "MARKS025",
+        "attendanceId": "ATTENDANCE025"
+    },
+    {
+        "sic": "SIC026",
+        "name": "Kiara",
+        "email": "student26@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(26).jpeg",
+        "semester": 6,
+        "marksId": "MARKS026",
+        "attendanceId": "ATTENDANCE026"
+    },
+    {
+        "sic": "SIC027",
+        "name": "Avni",
+        "email": "student27@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(27).jpeg",
+        "semester": 6,
+        "marksId": "MARKS027",
+        "attendanceId": "ATTENDANCE027"
+    },
+    {
+        "sic": "SIC028",
+        "name": "Riya",
+        "email": "student28@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(28).jpeg",
+        "semester": 6,
+        "marksId": "MARKS028",
+        "attendanceId": "ATTENDANCE028"
+    },
+    {
+        "sic": "SIC029",
+        "name": "Tanvi",
+        "email": "student29@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(29).jpeg",
+        "semester": 6,
+        "marksId": "MARKS029",
+        "attendanceId": "ATTENDANCE029"
+    },
+    {
+        "sic": "SIC030",
+        "name": "Pihu",
+        "email": "student30@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(30).jpeg",
+        "semester": 6,
+        "marksId": "MARKS030",
+        "attendanceId": "ATTENDANCE030"
+    },
+    {
+        "sic": "SIC031",
+        "name": "Anvi",
+        "email": "student31@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(31).jpeg",
+        "semester": 6,
+        "marksId": "MARKS031",
+        "attendanceId": "ATTENDANCE031"
+    },
+    {
+        "sic": "SIC032",
+        "name": "Navya",
+        "email": "student32@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(32).jpeg",
+        "semester": 6,
+        "marksId": "MARKS032",
+        "attendanceId": "ATTENDANCE032"
+    },
+    {
+        "sic": "SIC033",
+        "name": "Aarohi",
+        "email": "student33@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(33).jpeg",
+        "semester": 6,
+        "marksId": "MARKS033",
+        "attendanceId": "ATTENDANCE033"
+    },
+    {
+        "sic": "SIC034",
+        "name": "Meera",
+        "email": "student34@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(34).jpeg",
+        "semester": 6,
+        "marksId": "MARKS034",
+        "attendanceId": "ATTENDANCE034"
+    },
+    {
+        "sic": "SIC035",
+        "name": "Mira",
+        "email": "student35@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(35).jpeg",
+        "semester": 6,
+        "marksId": "MARKS035",
+        "attendanceId": "ATTENDANCE035"
+    },
+    {
+        "sic": "SIC036",
+        "name": "Pari",
+        "email": "student36@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(36).jpeg",
+        "semester": 6,
+        "marksId": "MARKS036",
+        "attendanceId": "ATTENDANCE036"
+    },
+    {
+        "sic": "SIC037",
+        "name": "Vanya",
+        "email": "student37@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(37).jpeg",
+        "semester": 6,
+        "marksId": "MARKS037",
+        "attendanceId": "ATTENDANCE037"
+    },
+    {
+        "sic": "SIC038",
+        "name": "Simran",
+        "email": "student38@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(38).jpeg",
+        "semester": 6,
+        "marksId": "MARKS038",
+        "attendanceId": "ATTENDANCE038"
+    },
+    {
+        "sic": "SIC039",
+        "name": "Mahika",
+        "email": "student39@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(39).jpeg",
+        "semester": 6,
+        "marksId": "MARKS039",
+        "attendanceId": "ATTENDANCE039"
+    },
+    {
+        "sic": "SIC040",
+        "name": "Kavya",
+        "email": "student40@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(40).jpeg",
+        "semester": 6,
+        "marksId": "MARKS040",
+        "attendanceId": "ATTENDANCE040"
+    },
+    {
+        "sic": "SIC041",
+        "name": "Charvi",
+        "email": "student41@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(41).jpeg",
+        "semester": 6,
+        "marksId": "MARKS041",
+        "attendanceId": "ATTENDANCE041"
+    },
+    {
+        "sic": "SIC042",
+        "name": "Yashvi",
+        "email": "student42@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(42).jpeg",
+        "semester": 6,
+        "marksId": "MARKS042",
+        "attendanceId": "ATTENDANCE042"
+    },
+    {
+        "sic": "SIC043",
+        "name": "Swara",
+        "email": "student43@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(43).jpeg",
+        "semester": 6,
+        "marksId": "MARKS043",
+        "attendanceId": "ATTENDANCE043"
+    },
+    {
+        "sic": "SIC044",
+        "name": "Aanya",
+        "email": "student44@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(44).jpeg",
+        "semester": 6,
+        "marksId": "MARKS044",
+        "attendanceId": "ATTENDANCE044"
+    },
+    {
+        "sic": "SIC045",
+        "name": "Ira",
+        "email": "student45@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(45).jpeg",
+        "semester": 6,
+        "marksId": "MARKS045",
+        "attendanceId": "ATTENDANCE045"
+    },
+    {
+        "sic": "SIC046",
+        "name": "Jiya",
+        "email": "student46@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(46).jpeg",
+        "semester": 6,
+        "marksId": "MARKS046",
+        "attendanceId": "ATTENDANCE046"
+    },
+    {
+        "sic": "SIC047",
+        "name": "Suhana",
+        "email": "student47@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(47).jpeg",
+        "semester": 6,
+        "marksId": "MARKS047",
+        "attendanceId": "ATTENDANCE047"
+    },
+    {
+        "sic": "SIC048",
+        "name": "Anushka",
+        "email": "student48@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(48).jpeg",
+        "semester": 6,
+        "marksId": "MARKS048",
+        "attendanceId": "ATTENDANCE048"
+    },
+    {
+        "sic": "SIC049",
+        "name": "Trisha",
+        "email": "student49@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(49).jpeg",
+        "semester": 6,
+        "marksId": "MARKS049",
+        "attendanceId": "ATTENDANCE049"
+    },
+    {
+        "sic": "SIC050",
+        "name": "Aditi",
+        "email": "student50@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(50).jpeg",
+        "semester": 6,
+        "marksId": "MARKS050",
+        "attendanceId": "ATTENDANCE050"
+    },
+    {
+        "sic": "SIC051",
+        "name": "Aisha",
+        "email": "student51@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(51).jpeg",
+        "semester": 6,
+        "marksId": "MARKS051",
+        "attendanceId": "ATTENDANCE051"
+    },
+    {
+        "sic": "SIC052",
+        "name": "Muskan",
+        "email": "student52@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(52).jpeg",
+        "semester": 6,
+        "marksId": "MARKS052",
+        "attendanceId": "ATTENDANCE052"
+    },
+    {
+        "sic": "SIC053",
+        "name": "Pooja",
+        "email": "student53@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(53).jpeg",
+        "semester": 6,
+        "marksId": "MARKS053",
+        "attendanceId": "ATTENDANCE053"
+    },
+    {
+        "sic": "SIC054",
+        "name": "Sakshi",
+        "email": "student54@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(54).jpeg",
+        "semester": 6,
+        "marksId": "MARKS054",
+        "attendanceId": "ATTENDANCE054"
+    },
+    {
+        "sic": "SIC055",
+        "name": "Khushi",
+        "email": "student55@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(55).jpeg",
+        "semester": 6,
+        "marksId": "MARKS055",
+        "attendanceId": "ATTENDANCE055"
+    },
+    {
+        "sic": "SIC056",
+        "name": "Shruti",
+        "email": "student56@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(56).jpeg",
+        "semester": 6,
+        "marksId": "MARKS056",
+        "attendanceId": "ATTENDANCE056"
+    },
+    {
+        "sic": "SIC057",
+        "name": "Radhika",
+        "email": "student57@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(57).jpeg",
+        "semester": 6,
+        "marksId": "MARKS057",
+        "attendanceId": "ATTENDANCE057"
+    },
+    {
+        "sic": "SIC058",
+        "name": "Bhavya",
+        "email": "student58@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(58).jpeg",
+        "semester": 6,
+        "marksId": "MARKS058",
+        "attendanceId": "ATTENDANCE058"
+    },
+    {
+        "sic": "SIC059",
+        "name": "Tanya",
+        "email": "student59@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(59).jpeg",
+        "semester": 6,
+        "marksId": "MARKS059",
+        "attendanceId": "ATTENDANCE059"
+    },
+    {
+        "sic": "SIC060",
+        "name": "Siddharth",
+        "email": "student60@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(60).jpeg",
+        "semester": 6,
+        "marksId": "MARKS060",
+        "attendanceId": "ATTENDANCE060"
+    },
+    {
+        "sic": "SIC061",
+        "name": "Pranav",
+        "email": "student61@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(61).jpeg",
+        "semester": 6,
+        "marksId": "MARKS061",
+        "attendanceId": "ATTENDANCE061"
+    },
+    {
+        "sic": "SIC062",
+        "name": "Nirvaan",
+        "email": "student62@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(62).jpeg",
+        "semester": 6,
+        "marksId": "MARKS062",
+        "attendanceId": "ATTENDANCE062"
+    },
+    {
+        "sic": "SIC063",
+        "name": "Gautam",
+        "email": "student63@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(63).jpeg",
+        "semester": 6,
+        "marksId": "MARKS063",
+        "attendanceId": "ATTENDANCE063"
+    },
+    {
+        "sic": "SIC064",
+        "name": "Varun",
+        "email": "student64@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(64).jpeg",
+        "semester": 6,
+        "marksId": "MARKS064",
+        "attendanceId": "ATTENDANCE064"
+    },
+    {
+        "sic": "SIC065",
+        "name": "Yug",
+        "email": "student65@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(65).jpeg",
+        "semester": 6,
+        "marksId": "MARKS065",
+        "attendanceId": "ATTENDANCE065"
+    },
+    {
+        "sic": "SIC066",
+        "name": "Manan",
+        "email": "student66@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(66).jpeg",
+        "semester": 6,
+        "marksId": "MARKS066",
+        "attendanceId": "ATTENDANCE066"
+    },
+    {
+        "sic": "SIC067",
+        "name": "Laksh",
+        "email": "student67@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(67).jpeg",
+        "semester": 6,
+        "marksId": "MARKS067",
+        "attendanceId": "ATTENDANCE067"
+    },
+    {
+        "sic": "SIC068",
+        "name": "Samar",
+        "email": "student68@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(68).jpeg",
+        "semester": 6,
+        "marksId": "MARKS068",
+        "attendanceId": "ATTENDANCE068"
+    },
+    {
+        "sic": "SIC069",
+        "name": "Devansh",
+        "email": "student69@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(69).jpeg",
+        "semester": 6,
+        "marksId": "MARKS069",
+        "attendanceId": "ATTENDANCE069"
+    },
+    {
+        "sic": "SIC070",
+        "name": "Aarav",
+        "email": "student70@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(70).jpeg",
+        "semester": 6,
+        "marksId": "MARKS070",
+        "attendanceId": "ATTENDANCE070"
+    },
+    {
+        "sic": "SIC071",
+        "name": "Vivaan",
+        "email": "student71@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(71).jpeg",
+        "semester": 6,
+        "marksId": "MARKS071",
+        "attendanceId": "ATTENDANCE071"
+    },
+    {
+        "sic": "SIC072",
+        "name": "Aditya",
+        "email": "student72@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(72).jpeg",
+        "semester": 6,
+        "marksId": "MARKS072",
+        "attendanceId": "ATTENDANCE072"
+    },
+    {
+        "sic": "SIC073",
+        "name": "Vihaan",
+        "email": "student73@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(73).jpeg",
+        "semester": 6,
+        "marksId": "MARKS073",
+        "attendanceId": "ATTENDANCE073"
+    },
+    {
+        "sic": "SIC074",
+        "name": "Arjun",
+        "email": "student74@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(74).jpeg",
+        "semester": 6,
+        "marksId": "MARKS074",
+        "attendanceId": "ATTENDANCE074"
+    },
+    {
+        "sic": "SIC075",
+        "name": "Sai",
+        "email": "student75@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(75).jpeg",
+        "semester": 6,
+        "marksId": "MARKS075",
+        "attendanceId": "ATTENDANCE075"
+    },
+    {
+        "sic": "SIC076",
+        "name": "Krishna",
+        "email": "student76@university.edu",
+        "profilePic": "http://localhost:5000/student_pfp/student(76).jpeg",
+        "semester": 6,
+        "marksId": "MARKS076",
+        "attendanceId": "ATTENDANCE076"
+    }
+]

@@ -1,0 +1,914 @@
+[
+    {
+        "sic": "SIC001",
+        "marksId": "MID001",
+        "marks": {
+            "Compiler Design": 55,
+            "Cloud Computing": 47,
+            "Advanced ML": 79,
+            "Emerging Technology": 88,
+            "Software Engineering": 91,
+            "IoT": 94
+        }
+    },
+    {
+        "sic": "SIC002",
+        "marksId": "MID002",
+        "marks": {
+            "Compiler Design": 71,
+            "Cloud Computing": 49,
+            "Advanced ML": 41,
+            "Emerging Technology": 58,
+            "Software Engineering": 66,
+            "IoT": 54
+        }
+    },
+    {
+        "sic": "SIC003",
+        "marksId": "MID003",
+        "marks": {
+            "Compiler Design": 56,
+            "Cloud Computing": 59,
+            "Advanced ML": 63,
+            "Emerging Technology": 81,
+            "Software Engineering": 94,
+            "IoT": 82
+        }
+    },
+    {
+        "sic": "SIC004",
+        "marksId": "MID004",
+        "marks": {
+            "Compiler Design": 90,
+            "Cloud Computing": 92,
+            "Advanced ML": 51,
+            "Emerging Technology": 58,
+            "Software Engineering": 60,
+            "IoT": 74
+        }
+    },
+    {
+        "sic": "SIC005",
+        "marksId": "MID005",
+        "marks": {
+            "Compiler Design": 82,
+            "Cloud Computing": 53,
+            "Advanced ML": 72,
+            "Emerging Technology": 69,
+            "Software Engineering": 67,
+            "IoT": 52
+        }
+    },
+    {
+        "sic": "SIC006",
+        "marksId": "MID006",
+        "marks": {
+            "Compiler Design": 70,
+            "Cloud Computing": 96,
+            "Advanced ML": 60,
+            "Emerging Technology": 72,
+            "Software Engineering": 80,
+            "IoT": 46
+        }
+    },
+    {
+        "sic": "SIC007",
+        "marksId": "MID007",
+        "marks": {
+            "Compiler Design": 50,
+            "Cloud Computing": 97,
+            "Advanced ML": 77,
+            "Emerging Technology": 57,
+            "Software Engineering": 53,
+            "IoT": 95
+        }
+    },
+    {
+        "sic": "SIC008",
+        "marksId": "MID008",
+        "marks": {
+            "Compiler Design": 86,
+            "Cloud Computing": 48,
+            "Advanced ML": 86,
+            "Emerging Technology": 81,
+            "Software Engineering": 87,
+            "IoT": 62
+        }
+    },
+    {
+        "sic": "SIC009",
+        "marksId": "MID009",
+        "marks": {
+            "Compiler Design": 66,
+            "Cloud Computing": 94,
+            "Advanced ML": 64,
+            "Emerging Technology": 44,
+            "Software Engineering": 75,
+            "IoT": 96
+        }
+    },
+    {
+        "sic": "SIC010",
+        "marksId": "MID010",
+        "marks": {
+            "Compiler Design": 46,
+            "Cloud Computing": 51,
+            "Advanced ML": 99,
+            "Emerging Technology": 84,
+            "Software Engineering": 90,
+            "IoT": 41
+        }
+    },
+    {
+        "sic": "SIC011",
+        "marksId": "MID011",
+        "marks": {
+            "Compiler Design": 58,
+            "Cloud Computing": 62,
+            "Advanced ML": 89,
+            "Emerging Technology": 62,
+            "Software Engineering": 72,
+            "IoT": 74
+        }
+    },
+    {
+        "sic": "SIC012",
+        "marksId": "MID012",
+        "marks": {
+            "Compiler Design": 65,
+            "Cloud Computing": 53,
+            "Advanced ML": 60,
+            "Emerging Technology": 78,
+            "Software Engineering": 47,
+            "IoT": 84
+        }
+    },
+    {
+        "sic": "SIC013",
+        "marksId": "MID013",
+        "marks": {
+            "Compiler Design": 87,
+            "Cloud Computing": 62,
+            "Advanced ML": 44,
+            "Emerging Technology": 80,
+            "Software Engineering": 87,
+            "IoT": 41
+        }
+    },
+    {
+        "sic": "SIC014",
+        "marksId": "MID014",
+        "marks": {
+            "Compiler Design": 53,
+            "Cloud Computing": 83,
+            "Advanced ML": 77,
+            "Emerging Technology": 75,
+            "Software Engineering": 89,
+            "IoT": 75
+        }
+    },
+    {
+        "sic": "SIC015",
+        "marksId": "MID015",
+        "marks": {
+            "Compiler Design": 93,
+            "Cloud Computing": 89,
+            "Advanced ML": 42,
+            "Emerging Technology": 93,
+            "Software Engineering": 46,
+            "IoT": 93
+        }
+    },
+    {
+        "sic": "SIC016",
+        "marksId": "MID016",
+        "marks": {
+            "Compiler Design": 54,
+            "Cloud Computing": 45,
+            "Advanced ML": 59,
+            "Emerging Technology": 95,
+            "Software Engineering": 41,
+            "IoT": 56
+        }
+    },
+    {
+        "sic": "SIC017",
+        "marksId": "MID017",
+        "marks": {
+            "Compiler Design": 59,
+            "Cloud Computing": 97,
+            "Advanced ML": 88,
+            "Emerging Technology": 52,
+            "Software Engineering": 46,
+            "IoT": 62
+        }
+    },
+    {
+        "sic": "SIC018",
+        "marksId": "MID018",
+        "marks": {
+            "Compiler Design": 78,
+            "Cloud Computing": 90,
+            "Advanced ML": 80,
+            "Emerging Technology": 86,
+            "Software Engineering": 90,
+            "IoT": 68
+        }
+    },
+    {
+        "sic": "SIC019",
+        "marksId": "MID019",
+        "marks": {
+            "Compiler Design": 43,
+            "Cloud Computing": 66,
+            "Advanced ML": 54,
+            "Emerging Technology": 68,
+            "Software Engineering": 84,
+            "IoT": 90
+        }
+    },
+    {
+        "sic": "SIC020",
+        "marksId": "MID020",
+        "marks": {
+            "Compiler Design": 40,
+            "Cloud Computing": 57,
+            "Advanced ML": 47,
+            "Emerging Technology": 44,
+            "Software Engineering": 42,
+            "IoT": 95
+        }
+    },
+    {
+        "sic": "SIC021",
+        "marksId": "MID021",
+        "marks": {
+            "Compiler Design": 67,
+            "Cloud Computing": 82,
+            "Advanced ML": 85,
+            "Emerging Technology": 80,
+            "Software Engineering": 76,
+            "IoT": 89
+        }
+    },
+    {
+        "sic": "SIC022",
+        "marksId": "MID022",
+        "marks": {
+            "Compiler Design": 65,
+            "Cloud Computing": 60,
+            "Advanced ML": 40,
+            "Emerging Technology": 40,
+            "Software Engineering": 50,
+            "IoT": 56
+        }
+    },
+    {
+        "sic": "SIC023",
+        "marksId": "MID023",
+        "marks": {
+            "Compiler Design": 93,
+            "Cloud Computing": 41,
+            "Advanced ML": 69,
+            "Emerging Technology": 48,
+            "Software Engineering": 70,
+            "IoT": 63
+        }
+    },
+    {
+        "sic": "SIC024",
+        "marksId": "MID024",
+        "marks": {
+            "Compiler Design": 44,
+            "Cloud Computing": 41,
+            "Advanced ML": 80,
+            "Emerging Technology": 67,
+            "Software Engineering": 77,
+            "IoT": 78
+        }
+    },
+    {
+        "sic": "SIC025",
+        "marksId": "MID025",
+        "marks": {
+            "Compiler Design": 56,
+            "Cloud Computing": 97,
+            "Advanced ML": 60,
+            "Emerging Technology": 77,
+            "Software Engineering": 86,
+            "IoT": 59
+        }
+    },
+    {
+        "sic": "SIC026",
+        "marksId": "MID026",
+        "marks": {
+            "Compiler Design": 97,
+            "Cloud Computing": 60,
+            "Advanced ML": 59,
+            "Emerging Technology": 75,
+            "Software Engineering": 45,
+            "IoT": 93
+        }
+    },
+    {
+        "sic": "SIC027",
+        "marksId": "MID027",
+        "marks": {
+            "Compiler Design": 54,
+            "Cloud Computing": 65,
+            "Advanced ML": 92,
+            "Emerging Technology": 49,
+            "Software Engineering": 41,
+            "IoT": 60
+        }
+    },
+    {
+        "sic": "SIC028",
+        "marksId": "MID028",
+        "marks": {
+            "Compiler Design": 82,
+            "Cloud Computing": 44,
+            "Advanced ML": 44,
+            "Emerging Technology": 90,
+            "Software Engineering": 94,
+            "IoT": 99
+        }
+    },
+    {
+        "sic": "SIC029",
+        "marksId": "MID029",
+        "marks": {
+            "Compiler Design": 67,
+            "Cloud Computing": 68,
+            "Advanced ML": 83,
+            "Emerging Technology": 66,
+            "Software Engineering": 42,
+            "IoT": 76
+        }
+    },
+    {
+        "sic": "SIC030",
+        "marksId": "MID030",
+        "marks": {
+            "Compiler Design": 55,
+            "Cloud Computing": 48,
+            "Advanced ML": 73,
+            "Emerging Technology": 42,
+            "Software Engineering": 69,
+            "IoT": 65
+        }
+    },
+    {
+        "sic": "SIC031",
+        "marksId": "MID031",
+        "marks": {
+            "Compiler Design": 70,
+            "Cloud Computing": 60,
+            "Advanced ML": 42,
+            "Emerging Technology": 64,
+            "Software Engineering": 80,
+            "IoT": 73
+        }
+    },
+    {
+        "sic": "SIC032",
+        "marksId": "MID032",
+        "marks": {
+            "Compiler Design": 97,
+            "Cloud Computing": 52,
+            "Advanced ML": 100,
+            "Emerging Technology": 78,
+            "Software Engineering": 59,
+            "IoT": 47
+        }
+    },
+    {
+        "sic": "SIC033",
+        "marksId": "MID033",
+        "marks": {
+            "Compiler Design": 61,
+            "Cloud Computing": 83,
+            "Advanced ML": 98,
+            "Emerging Technology": 48,
+            "Software Engineering": 78,
+            "IoT": 89
+        }
+    },
+    {
+        "sic": "SIC034",
+        "marksId": "MID034",
+        "marks": {
+            "Compiler Design": 63,
+            "Cloud Computing": 51,
+            "Advanced ML": 48,
+            "Emerging Technology": 96,
+            "Software Engineering": 57,
+            "IoT": 53
+        }
+    },
+    {
+        "sic": "SIC035",
+        "marksId": "MID035",
+        "marks": {
+            "Compiler Design": 89,
+            "Cloud Computing": 78,
+            "Advanced ML": 85,
+            "Emerging Technology": 77,
+            "Software Engineering": 53,
+            "IoT": 81
+        }
+    },
+    {
+        "sic": "SIC036",
+        "marksId": "MID036",
+        "marks": {
+            "Compiler Design": 83,
+            "Cloud Computing": 86,
+            "Advanced ML": 40,
+            "Emerging Technology": 58,
+            "Software Engineering": 87,
+            "IoT": 91
+        }
+    },
+    {
+        "sic": "SIC037",
+        "marksId": "MID037",
+        "marks": {
+            "Compiler Design": 43,
+            "Cloud Computing": 58,
+            "Advanced ML": 68,
+            "Emerging Technology": 74,
+            "Software Engineering": 65,
+            "IoT": 87
+        }
+    },
+    {
+        "sic": "SIC038",
+        "marksId": "MID038",
+        "marks": {
+            "Compiler Design": 48,
+            "Cloud Computing": 46,
+            "Advanced ML": 78,
+            "Emerging Technology": 63,
+            "Software Engineering": 52,
+            "IoT": 47
+        }
+    },
+    {
+        "sic": "SIC039",
+        "marksId": "MID039",
+        "marks": {
+            "Compiler Design": 71,
+            "Cloud Computing": 79,
+            "Advanced ML": 70,
+            "Emerging Technology": 79,
+            "Software Engineering": 60,
+            "IoT": 80
+        }
+    },
+    {
+        "sic": "SIC040",
+        "marksId": "MID040",
+        "marks": {
+            "Compiler Design": 43,
+            "Cloud Computing": 80,
+            "Advanced ML": 81,
+            "Emerging Technology": 53,
+            "Software Engineering": 57,
+            "IoT": 66
+        }
+    },
+    {
+        "sic": "SIC041",
+        "marksId": "MID041",
+        "marks": {
+            "Compiler Design": 75,
+            "Cloud Computing": 97,
+            "Advanced ML": 50,
+            "Emerging Technology": 48,
+            "Software Engineering": 79,
+            "IoT": 96
+        }
+    },
+    {
+        "sic": "SIC042",
+        "marksId": "MID042",
+        "marks": {
+            "Compiler Design": 68,
+            "Cloud Computing": 73,
+            "Advanced ML": 68,
+            "Emerging Technology": 85,
+            "Software Engineering": 42,
+            "IoT": 63
+        }
+    },
+    {
+        "sic": "SIC043",
+        "marksId": "MID043",
+        "marks": {
+            "Compiler Design": 71,
+            "Cloud Computing": 40,
+            "Advanced ML": 94,
+            "Emerging Technology": 64,
+            "Software Engineering": 81,
+            "IoT": 44
+        }
+    },
+    {
+        "sic": "SIC044",
+        "marksId": "MID044",
+        "marks": {
+            "Compiler Design": 83,
+            "Cloud Computing": 46,
+            "Advanced ML": 90,
+            "Emerging Technology": 75,
+            "Software Engineering": 41,
+            "IoT": 40
+        }
+    },
+    {
+        "sic": "SIC045",
+        "marksId": "MID045",
+        "marks": {
+            "Compiler Design": 53,
+            "Cloud Computing": 75,
+            "Advanced ML": 64,
+            "Emerging Technology": 72,
+            "Software Engineering": 78,
+            "IoT": 43
+        }
+    },
+    {
+        "sic": "SIC046",
+        "marksId": "MID046",
+        "marks": {
+            "Compiler Design": 69,
+            "Cloud Computing": 41,
+            "Advanced ML": 74,
+            "Emerging Technology": 98,
+            "Software Engineering": 50,
+            "IoT": 80
+        }
+    },
+    {
+        "sic": "SIC047",
+        "marksId": "MID047",
+        "marks": {
+            "Compiler Design": 63,
+            "Cloud Computing": 47,
+            "Advanced ML": 98,
+            "Emerging Technology": 75,
+            "Software Engineering": 59,
+            "IoT": 73
+        }
+    },
+    {
+        "sic": "SIC048",
+        "marksId": "MID048",
+        "marks": {
+            "Compiler Design": 59,
+            "Cloud Computing": 44,
+            "Advanced ML": 59,
+            "Emerging Technology": 40,
+            "Software Engineering": 65,
+            "IoT": 98
+        }
+    },
+    {
+        "sic": "SIC049",
+        "marksId": "MID049",
+        "marks": {
+            "Compiler Design": 71,
+            "Cloud Computing": 64,
+            "Advanced ML": 97,
+            "Emerging Technology": 99,
+            "Software Engineering": 78,
+            "IoT": 57
+        }
+    },
+    {
+        "sic": "SIC050",
+        "marksId": "MID050",
+        "marks": {
+            "Compiler Design": 90,
+            "Cloud Computing": 47,
+            "Advanced ML": 44,
+            "Emerging Technology": 82,
+            "Software Engineering": 49,
+            "IoT": 56
+        }
+    },
+    {
+        "sic": "SIC051",
+        "marksId": "MID051",
+        "marks": {
+            "Compiler Design": 68,
+            "Cloud Computing": 74,
+            "Advanced ML": 41,
+            "Emerging Technology": 65,
+            "Software Engineering": 52,
+            "IoT": 79
+        }
+    },
+    {
+        "sic": "SIC052",
+        "marksId": "MID052",
+        "marks": {
+            "Compiler Design": 73,
+            "Cloud Computing": 76,
+            "Advanced ML": 53,
+            "Emerging Technology": 69,
+            "Software Engineering": 56,
+            "IoT": 99
+        }
+    },
+    {
+        "sic": "SIC053",
+        "marksId": "MID053",
+        "marks": {
+            "Compiler Design": 46,
+            "Cloud Computing": 96,
+            "Advanced ML": 80,
+            "Emerging Technology": 71,
+            "Software Engineering": 43,
+            "IoT": 98
+        }
+    },
+    {
+        "sic": "SIC054",
+        "marksId": "MID054",
+        "marks": {
+            "Compiler Design": 95,
+            "Cloud Computing": 68,
+            "Advanced ML": 93,
+            "Emerging Technology": 74,
+            "Software Engineering": 48,
+            "IoT": 77
+        }
+    },
+    {
+        "sic": "SIC055",
+        "marksId": "MID055",
+        "marks": {
+            "Compiler Design": 63,
+            "Cloud Computing": 48,
+            "Advanced ML": 84,
+            "Emerging Technology": 97,
+            "Software Engineering": 76,
+            "IoT": 73
+        }
+    },
+    {
+        "sic": "SIC056",
+        "marksId": "MID056",
+        "marks": {
+            "Compiler Design": 49,
+            "Cloud Computing": 91,
+            "Advanced ML": 48,
+            "Emerging Technology": 60,
+            "Software Engineering": 51,
+            "IoT": 74
+        }
+    },
+    {
+        "sic": "SIC057",
+        "marksId": "MID057",
+        "marks": {
+            "Compiler Design": 91,
+            "Cloud Computing": 81,
+            "Advanced ML": 69,
+            "Emerging Technology": 97,
+            "Software Engineering": 91,
+            "IoT": 69
+        }
+    },
+    {
+        "sic": "SIC058",
+        "marksId": "MID058",
+        "marks": {
+            "Compiler Design": 92,
+            "Cloud Computing": 59,
+            "Advanced ML": 44,
+            "Emerging Technology": 50,
+            "Software Engineering": 43,
+            "IoT": 51
+        }
+    },
+    {
+        "sic": "SIC059",
+        "marksId": "MID059",
+        "marks": {
+            "Compiler Design": 75,
+            "Cloud Computing": 50,
+            "Advanced ML": 69,
+            "Emerging Technology": 52,
+            "Software Engineering": 84,
+            "IoT": 66
+        }
+    },
+    {
+        "sic": "SIC060",
+        "marksId": "MID060",
+        "marks": {
+            "Compiler Design": 68,
+            "Cloud Computing": 91,
+            "Advanced ML": 59,
+            "Emerging Technology": 40,
+            "Software Engineering": 68,
+            "IoT": 72
+        }
+    },
+    {
+        "sic": "SIC061",
+        "marksId": "MID061",
+        "marks": {
+            "Compiler Design": 77,
+            "Cloud Computing": 99,
+            "Advanced ML": 93,
+            "Emerging Technology": 81,
+            "Software Engineering": 46,
+            "IoT": 89
+        }
+    },
+    {
+        "sic": "SIC062",
+        "marksId": "MID062",
+        "marks": {
+            "Compiler Design": 71,
+            "Cloud Computing": 46,
+            "Advanced ML": 70,
+            "Emerging Technology": 100,
+            "Software Engineering": 63,
+            "IoT": 46
+        }
+    },
+    {
+        "sic": "SIC063",
+        "marksId": "MID063",
+        "marks": {
+            "Compiler Design": 47,
+            "Cloud Computing": 71,
+            "Advanced ML": 54,
+            "Emerging Technology": 51,
+            "Software Engineering": 81,
+            "IoT": 92
+        }
+    },
+    {
+        "sic": "SIC064",
+        "marksId": "MID064",
+        "marks": {
+            "Compiler Design": 88,
+            "Cloud Computing": 77,
+            "Advanced ML": 63,
+            "Emerging Technology": 68,
+            "Software Engineering": 75,
+            "IoT": 79
+        }
+    },
+    {
+        "sic": "SIC065",
+        "marksId": "MID065",
+        "marks": {
+            "Compiler Design": 47,
+            "Cloud Computing": 85,
+            "Advanced ML": 70,
+            "Emerging Technology": 75,
+            "Software Engineering": 59,
+            "IoT": 95
+        }
+    },
+    {
+        "sic": "SIC066",
+        "marksId": "MID066",
+        "marks": {
+            "Compiler Design": 81,
+            "Cloud Computing": 71,
+            "Advanced ML": 88,
+            "Emerging Technology": 65,
+            "Software Engineering": 52,
+            "IoT": 99
+        }
+    },
+    {
+        "sic": "SIC067",
+        "marksId": "MID067",
+        "marks": {
+            "Compiler Design": 46,
+            "Cloud Computing": 85,
+            "Advanced ML": 59,
+            "Emerging Technology": 61,
+            "Software Engineering": 61,
+            "IoT": 69
+        }
+    },
+    {
+        "sic": "SIC068",
+        "marksId": "MID068",
+        "marks": {
+            "Compiler Design": 45,
+            "Cloud Computing": 43,
+            "Advanced ML": 92,
+            "Emerging Technology": 51,
+            "Software Engineering": 94,
+            "IoT": 52
+        }
+    },
+    {
+        "sic": "SIC069",
+        "marksId": "MID069",
+        "marks": {
+            "Compiler Design": 71,
+            "Cloud Computing": 83,
+            "Advanced ML": 74,
+            "Emerging Technology": 69,
+            "Software Engineering": 89,
+            "IoT": 49
+        }
+    },
+    {
+        "sic": "SIC070",
+        "marksId": "MID070",
+        "marks": {
+            "Compiler Design": 57,
+            "Cloud Computing": 66,
+            "Advanced ML": 84,
+            "Emerging Technology": 44,
+            "Software Engineering": 44,
+            "IoT": 70
+        }
+    },
+    {
+        "sic": "SIC071",
+        "marksId": "MID071",
+        "marks": {
+            "Compiler Design": 70,
+            "Cloud Computing": 77,
+            "Advanced ML": 82,
+            "Emerging Technology": 63,
+            "Software Engineering": 95,
+            "IoT": 78
+        }
+    },
+    {
+        "sic": "SIC072",
+        "marksId": "MID072",
+        "marks": {
+            "Compiler Design": 61,
+            "Cloud Computing": 49,
+            "Advanced ML": 92,
+            "Emerging Technology": 50,
+            "Software Engineering": 91,
+            "IoT": 94
+        }
+    },
+    {
+        "sic": "SIC073",
+        "marksId": "MID073",
+        "marks": {
+            "Compiler Design": 73,
+            "Cloud Computing": 60,
+            "Advanced ML": 57,
+            "Emerging Technology": 58,
+            "Software Engineering": 92,
+            "IoT": 42
+        }
+    },
+    {
+        "sic": "SIC074",
+        "marksId": "MID074",
+        "marks": {
+            "Compiler Design": 60,
+            "Cloud Computing": 71,
+            "Advanced ML": 46,
+            "Emerging Technology": 88,
+            "Software Engineering": 47,
+            "IoT": 78
+        }
+    },
+    {
+        "sic": "SIC075",
+        "marksId": "MID075",
+        "marks": {
+            "Compiler Design": 63,
+            "Cloud Computing": 87,
+            "Advanced ML": 69,
+            "Emerging Technology": 74,
+            "Software Engineering": 44,
+            "IoT": 88
+        }
+    },
+    {
+        "sic": "SIC076",
+        "marksId": "MID076",
+        "marks": {
+            "Compiler Design": 64,
+            "Cloud Computing": 77,
+            "Advanced ML": 51,
+            "Emerging Technology": 86,
+            "Software Engineering": 93,
+            "IoT": 66
+        }
+    }
+]
