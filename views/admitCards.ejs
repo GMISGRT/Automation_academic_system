@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admit Cards</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .print-button { padding: 5px 10px; background: blue; color: white; border: none; cursor: pointer; }
+    </style>
+    <script>
+        function printAdmitCard(filePath) {
+            const link = document.createElement('a');
+            link.href = filePath;
+            link.download = filePath.split('/').pop();
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</head>
+<body>
+    <h1>Admit Card Management</h1>
+
+    <% if (hasEligible) { %>
+        <h2>Eligible Students (<%= eligibleStudents.length %>)</h2>
+        <table>
+            <tr>
+                <th>SIC</th>
+                <th>Name</th>
+                <th>Email</th>
+            </tr>
+            <% eligibleStudents.forEach(student => { %>
+                <tr>
+                    <td><%= student.sic %></td>
+                    <td><%= student.name %></td>
+                    <td><%= student.email %></td>
+                </tr>
+            <% }) %>
+        </table>
+    <% } %>
+    <button>download</button>
+
+    <% if (hasEligible && admitCards.length > 0) { %>
+        <h2>Download Admit Cards</h2>
+        <h1>fuck you</h1>
+        <table>
+            <tr>
+                <th>SIC</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Admit Card</th>
+                <th>Print</th>
+            </tr>
+            <% admitCards.forEach(card => { %>
+                <tr>
+                    <td><%= card.studentId.sic %></td>
+                    <td><%= card.studentId.name %></td>
+                    <td><%= card.studentId.email %></td>
+                    <td>
+                        <% if (card.filePath) { %>
+                            <a href="<%= card.filePath %>" download>Download</a>
+                        <% } else { %>
+                            Not Generated
+                        <% } %>
+                    </td>
+                    <td>
+                        <% if (card.filePath) { %>
+                            <button class="print-button" onclick="window.open('<%= card.filePath %>', '_blank')">Print</button>
+                        <% } else { %>
+                            -
+                        <% } %>
+                    </td>
+                </tr>
+            <% }) %>
+        </table>
+    <% } %>
+
+    <% if (hasIneligible) { %>
+        <h2>Ineligible Students (<%= ineligibleStudents.length %>)</h2>
+        <table>
+            <tr>
+                <th>SIC</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Reason</th>
+            </tr>
+            <% ineligibleStudents.forEach(student => { %>
+                <tr>
+                    <td><%= student.sic %></td>
+                    <td><%= student.name %></td>
+                    <td><%= student.email %></td>
+                    <td><%= student.reason %></td>
+                </tr>
+            <% }) %>
+        </table>
+    <% } %>
+    <button>download</button>
+</body>
+</html>

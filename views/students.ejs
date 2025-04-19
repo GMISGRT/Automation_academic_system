@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--form for displaying student detail and option of adding,deleting and modifying-->
+    <h1> Student Records</h1>
+    <!--Update the form to allow file uploads (enctype="multipart/form-data")-->
+    <form action="/addStudent" method="post" enctype="multipart/form-data">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="semester">semester</label>
+        <input type="number" id="semester" name="semester" required>
+
+        <label for="profilepic">Profile Picture : </label>
+        <input type="file" id="profilePic" name="profilePic" required>
+
+        <button type="submit">Add student</button>
+
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>S.NO</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Semester</th>
+                <th>Profile Picture</th>
+                <th>Actions</th>
+
+            </tr>
+        </thead>
+        <tbody>
+                <% students.forEach((student,index)=>{ %>
+                <tr>
+                    <td><%= index + 1 %></td>
+                    <td><%= student.name%></td>
+                    <td><%= student.email%></td>
+                    <td><%= student.semester%></td>
+                    <td>
+                        <% if (student.profilePic){%>
+                            <img src="<%=student.profilePic %>" alt="profilepicture" width="50">
+                        <% } else{ %>
+                            No image
+                            <% } %>
+                    </td>
+                    <td>
+                       <!-- <a href="/updateStudent/<%=student.sic %>">Edit</a>
+                        <a href="/deleteStudent?studentId=<%= student.sic %>" onclick="return confirm('Are you sure you want to delete this student record?');">
+                            Delete
+                        </a>
+                    use form instaed this will send get request instead of put or delete request-->
+                     <!-- Edit Button (triggers form display) -->
+                    <button onclick="showEditForm('<%= student.sic %>')">Edit</button>
+    
+            <!-- Hidden Edit Form -->
+                    <div id="editForm-<%= student.sic %>" style="display:none;">
+                    <form action="/updateStudent/<%= student.sic %>" method="POST">
+                        <input type="hidden" name="_method" value="PUT">
+                        
+                        <label>Name:
+                            <input type="text" name="name" value="<%= student.name %>">
+                        </label>
+                        
+                        <label>Email:
+                            <input type="email" name="email" value="<%= student.email %>">
+                        </label>
+                        
+                        <label>Semester:
+                            <input type="number" name="semester" value="<%= student.semester %>">
+                        </label>
+                        
+                        <button type="submit">Update</button>
+                        <button type="button" onclick="hideEditForm('<%= student.sic %>')">Cancel</button>
+                    </form>
+                    </div>
+            
+                    <form action="/deleteStudent/<%= student.sic %>" method="POST" style="display:inline;">
+                        <input type="hidden" name="_method" value="DELETE">
+                        <button type="submit">Delete</button>
+                    </form>
+                    </td>
+                        
+                            
+
+                </tr>
+                <% }) %>
+            </tbody>    
+                
+    </table>
+    <script>
+        function showEditForm(sic) {
+            document.getElementById(`editForm-${sic}`).style.display = 'block';
+        }
+        function hideEditForm(sic) {
+            document.getElementById(`editForm-${sic}`).style.display = 'none';
+        }
+        </script>
+        
+</body>
+</html>

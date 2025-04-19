@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Performance Reports</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        th, td {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .failed-row {
+            background-color: #ffdddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Student Rank List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>SIC</th>
+                <th>Name</th>
+                <th>SGPA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% rankList.forEach(student => { %>
+            <tr class="<%= student.backPapers.length > 0 ? 'failed-row' : '' %>">
+                <td><%= student.rank %></td>
+                <td><%= student.sic %></td>
+                <td><%= student.name %></td>
+                <td><%= student.sgpa %></td>
+            </tr>
+            <% }) %>
+        </tbody>
+    </table>
+
+    <h1>Failed Students Report</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>SIC</th>
+                <th>Name</th>
+                <th>Back Papers</th>
+                <th>SGPA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% failedStudents.forEach(student => { %>
+            <tr>
+                <td><%= student.sic %></td>
+                <td><%= student.name %></td>
+                <td><%= student.backPapers.join(', ') %></td>
+                <td><%= student.sgpa %></td>
+            </tr>
+            <% }) %>
+        </tbody>
+    </table>
+</body>
+</html>
